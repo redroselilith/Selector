@@ -1,0 +1,6 @@
+tabela do campeonato brasileiro
+tem que:
+- ter header cinza
+- 3 primeiras linhas verdes
+- 4 ultimas linhas vermelhas
+- as do meio alternam entre brancas e azuis
